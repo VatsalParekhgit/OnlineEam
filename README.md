@@ -39,6 +39,37 @@ After all questions answers are submitted and the submit on the last question is
 
 ![](https://github.com/VatsalParekhgit/OnlineExam/blob/master/reg2.PNG)
 
+
+
+
+
 CLASS DIAGRAM
 
-![](https://github.com/VatsalParekhgit/OnlineExam/blob/master/OnlineExaminationSystem-ClassDiagram.PNG)
+
+
+![](https://github.com/VatsalParekhgit/OnlineExam/blob/master/OnlineExaminationSystem-ClassDiagram.JPG)
+
+
+
+
+Data Flow Diagram
+
+
+
+![](https://github.com/VatsalParekhgit/OnlineExam/blob/master/5e1bff407fba3.JPG)
+
+
+ER Diagram
+
+
+![](https://github.com/VatsalParekhgit/OnlineExam/blob/master/5e1bff3fefa38.JPG)
+
+Activity Diagram
+
+
+![]()
+
+
+Sequence Diagram
+
+![]()
