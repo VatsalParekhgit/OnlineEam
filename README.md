@@ -56,7 +56,7 @@ Data Flow Diagram
 
 
 
-![](https://github.com/VatsalParekhgit/OnlineExam/blob/master/5e1bff407fba3.JPG)
+![](https://github.com/VatsalParekhgit/OnlineExam/blob/master/5e1bff407fba3.jpg)
 
 
 ER Diagram
